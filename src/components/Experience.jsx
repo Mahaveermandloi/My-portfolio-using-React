@@ -7,7 +7,7 @@ import java from "../images/java.png"
 import iot from "../images/iot.png";
 import cpp from "../images/cpp.png";
 import nodejs from "../images/nodejs.png";
-import angular from "../images/angular.png";
+
 import react from "../images/react.png"
 import git from "../images/git.png";
 import tailwind from "../images/tailwind.png";
