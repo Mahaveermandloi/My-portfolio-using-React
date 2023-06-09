@@ -57,7 +57,7 @@ const Socials = () => {
                                                 return (<>
                                                     <button key={id} className="bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 "   >
 
-                                                        <a href={href} target='_blank'>
+                                                        <a href={href} target='_blank' rel="noreferrer">
                                                             <img src={src} alt="" />
                                                         </a>
 
